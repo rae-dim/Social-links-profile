@@ -85,7 +85,7 @@ li{
     background-color:hsl(0, 0%, 20%);
     border-radius: 0.25rem;
     padding: 0.5rem 4rem;
-    transition: 
+    transition: transform 250ms ease-in-out;
 }
 
 .so-links:hover{
