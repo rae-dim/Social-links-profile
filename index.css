@@ -28,10 +28,10 @@ body {
 
 }
 
-
+/* TODO Remember padding and margin we use em units */
 /* ! Heading */
 .heading{
-    display: flex;
+    display: flex; 
     flex-flow: column;
     align-items: center;
     text-align: center;
