@@ -24,6 +24,7 @@ body {
     margin: 0;
     padding: 2rem;
     border-radius: 1rem;
+    place-content: center;
 
 }
 
@@ -93,6 +94,7 @@ li{
     background:hsl(0, 0%, 20%);
     border-radius: 0.25rem;
     padding: 0.5rem 4rem;
+    transition: background 250ms;
 }
 
 .so-links:hover{
