@@ -97,11 +97,11 @@ li{
     transition: background 250ms;
 }
 
-.so-links:hover{
-    background: hsl(75, 94%, 57%);
+.so-link:hover{
+    background: hsl(75, 94%, 57%)
 }
 
-.so-links:focus{
+.so-link:focus{
     background-color: hsl(75, 94%, 57%);
 }
 
